@@ -2,4 +2,4 @@ I spent a lot of time on this assignment. From the beginning, it took me a long 
 
 However, looking back, I realized that I learned a lot through this process. Even though I didn't complete everything perfectly, the effort I put into solving the problems helped me grow. Also, concepts that seemed confusing at first started to make more sense as I kept trying.
 
-I still have a lot to improve, but I believe that if I keep practicing without giving up, I will gradually get better. Moving forward, I want to focus on analyzing problems more logically and breaking them down into smaller steps. Coding is not easy, but I will do my best to follow along and improve little by little.
+I still have a lot to improve, but I believe that if I keep practicing without giving up, I will gradually get better. Moving forward, I want to focus on analyzing problems more logically and breaking them down into smaller steps. Coding is not easy, but I will do my best to follow along and improve little by little!!!
